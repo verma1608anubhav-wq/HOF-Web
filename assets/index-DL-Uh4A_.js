@@ -182,7 +182,7 @@ Error generating stack: `+l.message+`
          // Privacy Policy Links + Copyright
         s.jsxs("div",{className:"text-center space-y-6",children:[
           s.jsxs("div",{className:"text-xs md:text-sm text-hof-cream/80 font-poppins space-x-6",children:[
-            s.jsx("a",{href:"/privacy-policy.html",className:"hover:text-hof-orange transition-colors",children:"Privacy Policy"}),
+            s.jsx("a",{href:"/privacy-policy.html",className:"hover:text-hof-orange transition-colors",children:"Privacy Policy | "}),
             s.jsx("a",{href:"/privacy-policy.html#french",className:"hover:text-hof-orange transition-colors",children:"Politique de Confidentialité"})
           ]}),
           s.jsx("div",{className:"text-hof-cream/70 font-poppins text-xs md:text-sm",children:"© 2025 House of French. Transforming lives through language mastery."})
